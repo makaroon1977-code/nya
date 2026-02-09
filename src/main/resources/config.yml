@@ -1,0 +1,86 @@
+arena:
+  player-spawn:
+    world: world
+    x: -110
+    y: 94
+    z: 267
+
+  mob-spawn:
+    world: world
+    x: -110
+    y: 94
+    z: 290
+
+  lobby:
+    world: world
+    x: -109
+    y: 115
+    z: 276
+
+  npcs:
+    shop:
+      world: world
+      x: -120
+      y: 115
+      z: 283
+    upgrade:
+      world: world
+      x: -120
+      y: 115
+      z: 276
+    perk:
+      world: world
+      x: -120
+      y: 115
+      z: 268
+    sell:
+      world: world
+      x: -120
+      y: 115
+      z: 290
+    perk_upgrade:
+      world: world
+      x: -113
+      y: 115
+      z: 268
+    amulet:
+      world: world
+      x: -106
+      y: 115
+      z: 268
+    join:
+      world: world
+      x: -100
+      y: 115
+      z: 278
+    leave:
+      world: world
+      x: -119
+      y: 94
+      z: 269
+    start_wave:
+      world: world
+      x: -119
+      y: 94
+      z: 273
+    detailed_stats:
+      world: world
+      x: -106
+      y: 115
+      z: 290
+
+gacha:
+  chest:
+    world: world
+    x: -112
+    y: 115
+    z: 291
+
+wave:
+  base_mob_count: 5
+  mob_multiplier: 2
+
+rewards:
+  gold_per_mob: 5
+  gold_per_wave: 50
+  xp_per_wave: 50

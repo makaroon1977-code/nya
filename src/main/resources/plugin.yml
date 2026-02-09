@@ -1,0 +1,30 @@
+name: MobArenaPlus
+main: dev.yournick.mobarena.MobArenaPlugin
+version: 1.0.0
+api-version: 1.12
+
+commands:
+  arena:
+    description: Основная команда арены
+  shop:
+    description: Открыть магазин
+  upgrade:
+    description: Открыть апгрейды
+  arena_shop:
+    description: Открыть магазин арены
+  arena_upgrade:
+    description: Открыть апгрейды арены
+  perk:
+    description: Выбор перка игрока
+  perk_upgrade:
+    description: Прокачка перков игрока
+  arena_sell:
+    description: Продать предметы арены
+  stats:
+    description: Посмотреть свои характеристики
+  amulet:
+    description: Меню амулетов
+  gacha:
+    description: Меню гачи
+  detailedstats:
+    description: Подробные характеристики
